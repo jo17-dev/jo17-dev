@@ -5,9 +5,21 @@
 - 🔭 I’m currently learning React
 - 💬 Ask me about me new tech, 3d modeling, web projects
 - 📫 How to reach me: joeltsafakc1@gmail.com, , 
-- 😄 Pronouns: Joel
+- Now trying to optain DEC on IT
 
-## How to reach me: 
+### My stack:
+## front end:
+  - html
+  - css
+    - tailwindcss 
+  - javaScript
+    - jquery
+    - three.js
+    - React (learning)
+  - PHP (7+)
+     - Laravel (8+)
+     - Fpdf
+
+### How to reach me: 
  - https://joel-tsafack.netlify.app
  - joeltsafack1@gmail.com
- - 
