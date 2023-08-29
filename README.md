@@ -8,7 +8,7 @@
 - Now trying to optain DEC on IT
 
 ### My stack:
-## front end:
+# front end:
   - html
   - css
     - tailwindcss 
@@ -16,6 +16,7 @@
     - jquery
     - three.js
     - React (learning)
+  # backend
   - PHP (7+)
      - Laravel (8+)
      - Fpdf
