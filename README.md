@@ -4,11 +4,11 @@
 - I can use Laravel, tailwind, css, js on any project
 - 🔭 I’m currently learning React
 - 💬 Ask me about me new tech, 3d modeling, web projects
-- 📫 How to reach me: joeltsafakc1@gmail.com, , 
+- 📫 How to reach me: joeltsafack1@gmail.com, , 
 - Now trying to optain DEC on IT
 
 ### My stack:
-# front end:
+#### front end:
   - html
   - css
     - tailwindcss 
@@ -16,7 +16,7 @@
     - jquery
     - three.js
     - React (learning)
-  # backend
+#### backend
   - PHP (7+)
      - Laravel (8+)
      - Fpdf
