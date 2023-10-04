@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Joek Bertrand Tsafack / @jo17-dev, web developer 
+- I'm Joek Bertrand Tsafack / @jo17-dev, a web deveolpemt lover 
 - I can use Laravel, tailwind, css, js on any project
 - 🔭 I’m currently learning React
 - 💬 Ask me about me new tech, 3d modeling, web projects
