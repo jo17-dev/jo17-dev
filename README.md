@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- I'm Joek Bertrand Tsafack / @jo17-dev, a web deveolpemt lover 
-- I can use Laravel, tailwind, css, js on any project
-- 🔭 I’m currently learning React
-- 💬 Ask me about me new tech, 3d modeling, web projects
-- 📫 How to reach me: joeltsafack1@gmail.com, , 
+- I'm Joel / @jo17-dev, a web developemt lover 
+- I can use React Laravel, tailwind, css, js on any project
+- 🔭 I’m currently learning Node.js
+- 💬 Ask me about me new tech, 3d modeling, web projects 
 - Now trying to optain DEC on IT
 
 ### My stack:
@@ -22,4 +21,3 @@
 
 ### How to reach me: 
  - https://joel-tsafack.netlify.app
- - joeltsafack1@gmail.com
