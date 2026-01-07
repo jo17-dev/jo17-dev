@@ -29,4 +29,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ### How to reach me: 
- - https://joel-tsafack.netlify.app
+ - [LinkedIn](https://www.linkedin.com/in/joel-t-0745a4283/)
+ - [My web site](https://joel-tsafack.netlify.app)
